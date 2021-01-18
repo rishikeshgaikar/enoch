@@ -1,6 +1,6 @@
 # Welcome to enoch 🤖
 
-Custom template solution for react-native that comes with all the necessary libraries required to get you started with your next project and reduce the initial library setup hell.
+enoch is a custom template for react-native
 
 ### How to use?
 
